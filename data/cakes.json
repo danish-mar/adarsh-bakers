@@ -1,0 +1,29 @@
+{
+  "sections": [
+    {
+      "title": "Pastry Cakes",
+      "description": "Delicious small-sized cakes perfect for individual servings.",
+      "image": "1.jpeg"
+    },
+    {
+      "title": "Photo Cakes",
+      "description": "Personalized cakes with edible images printed on them.",
+      "image": "2.jpeg"
+    },
+    {
+      "title": "Wedding Cakes",
+      "description": "Beautiful, custom-designed cakes for your special day.",
+      "image": "3.jpeg"
+    },
+    {
+      "title": "Birthday Cakes",
+      "description": "Colorful and fun cakes to celebrate birthdays.",
+      "image": "4.jpeg"
+    },
+    {
+      "title": "Anniversary Cakes",
+      "description": "Elegant cakes to mark your memorable milestones.",
+      "image": "5.jpeg"
+    }
+  ]
+}

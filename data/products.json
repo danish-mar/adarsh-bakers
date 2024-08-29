@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Sourdough Bread",
+    "category": "bread",
+    "image": "/images/2.jpeg",
+    "price" : 250
+  },
+  {
+    "name": "Baguette",
+    "category": "bread",
+    "image": "/images/4.jpeg"
+  },
+  {
+    "name": "Croissant",
+    "category": "pastry",
+    "image": "/images/7.jpeg"
+  },
+  {
+    "name": "Pain au Chocolat",
+    "category": "pastry",
+    "image": "/placeholder.svg?height=300&width=300"
+  },
+  {
+    "name": "Chocolate Cake",
+    "category": "cake",
+    "image": "/placeholder.svg?height=300&width=300"
+  },
+  {
+    "name": "Strawberry Cheesecake",
+    "category": "cake",
+    "image": "/placeholder.svg?height=300&width=300"
+  },
+  {
+    "name": "Cinnamon Roll",
+    "category": "pastry",
+    "image": "/placeholder.svg?height=300&width=300"
+  },
+  {
+    "name": "Whole Wheat Bread",
+    "category": "bread",
+    "image": "/placeholder.svg?height=300&width=300"
+  },
+  {
+    "name": "Red Velvet Cupcake",
+    "category": "cake",
+    "image": "/placeholder.svg?height=300&width=300"
+  }
+]
